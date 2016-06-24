@@ -4,7 +4,7 @@ Website - Resurrection Remix ® ROM
 
 The website can be accessed through the following URLs:
 > - http://www.resurrectionremix.com
-> - http://xenon92.github.io/resurrectionremix-website/
+> - http://GeoZac.github.io/resurrectionremix-website/
 
 
 ####Resources

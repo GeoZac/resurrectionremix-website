@@ -1,3 +1,12 @@
+Work In Progress
+Will need every help i get
+To do:
+-Change the screenshots(preferably with screens with oncreen nav keys)
+-Change fonts to give a bold look
+-Edit color of features-link & make it bold in css
+-Show ressurection stats
+
+
 Website - Resurrection Remix ® ROM
 ---
 
